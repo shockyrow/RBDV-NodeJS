@@ -6,7 +6,6 @@ Advanced Rule-Based Data Validator for NodeJS. [https://iiiniii.github.io/RBDV-N
 [![Build Status](http://img.badgesize.io/https://unpkg.com/@ibrokhim/rbdv/?compression=gzip&amp;label=size&amp;maxAge=300)](https://unpkg.com/@ibrokhim/rbdv/)
 [![Build Status](https://img.shields.io/npm/v/@ibrokhim/rbdv.svg?label=version&colorB=007ec6&maxAge=300)](./package.json)
 [![Build Status](https://img.shields.io/npm/l/@ibrokhim/rbdv.svg?maxAge=300)](./LICENSE)
-
 <!--<a href="https://npmjs.org/package/@ibrokhim/rbdv">
 ​    <img src="https://img.shields.io/npm/dm/@ibrokhim/rbdv.svg">
 </a>-->
@@ -375,3 +374,6 @@ true
 ## License
 
 [MIT](https://github.com/IIINIII/RBDV-NodeJS/blob/master/LICENSE)
+
+## Support or Contact
+Having trouble with this package? [Contact me](https://github.com/IIINIII) and I’ll help you sort it out.
