@@ -1,0 +1,38 @@
+{
+  "name": "@ibrokhim/rbdv",
+  "version": "0.1.0",
+  "description": "Advanced Rule-Based Data Validator for NodeJS.",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IIINIII/RBDV-NodeJS.git"
+  },
+  "keywords": [
+    "advanced",
+    "rule",
+    "based",
+    "data",
+    "validator",
+    "ibrokhim",
+    "rbdv",
+    "nodejs",
+    "node",
+    "rule-based"
+  ],
+  "author": "Ibrokhim Shokirov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IIINIII/RBDV-NodeJS/issues"
+  },
+  "homepage": "https://iiiniii.github.io/RBDV-NodeJS"
+}
