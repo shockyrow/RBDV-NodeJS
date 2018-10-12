@@ -1,5 +1,6 @@
 const Helpers = require('./Helpers');
 const TypeValidators = require('./TypeValidators');
+const ExampleRule = require('./ExampleRule');
 
 module.exports = (function () {
     /**
@@ -112,8 +113,8 @@ module.exports = (function () {
         }
     };
 
-    RBDV.prototype.rulesExample = function () {
-        return RulesExample;
+    RBDV.prototype.exampleRule = function () {
+        return ExampleRule;
     };
 
     RBDV.prototype.makeRule = function (data) {
