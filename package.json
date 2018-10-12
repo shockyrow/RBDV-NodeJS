@@ -1,6 +1,6 @@
 {
   "name": "@ibrokhim/rbdv",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Advanced Rule-Based Data Validator for NodeJS.",
   "main": "src/index.js",
   "directories": {
