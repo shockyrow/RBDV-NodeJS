@@ -3,12 +3,10 @@
 Advanced Rule-Based Data Validator for NodeJS. [https://iiiniii.github.io/RBDV-NodeJS](https://iiiniii.github.io/RBDV-NodeJS)
 
 [![Build Status](https://travis-ci.org/IIINIII/RBDV-NodeJS.svg?branch=master)](https://travis-ci.org/IIINIII/RBDV-NodeJS)
-[![Build Status](http://img.badgesize.io/https://unpkg.com/@ibrokhim/rbdv/?compression=gzip&amp;label=size&amp;maxAge=300)](https://unpkg.com/@ibrokhim/rbdv/)
-[![Build Status](https://img.shields.io/npm/v/@ibrokhim/rbdv.svg?label=version&colorB=007ec6&maxAge=300)](./package.json)
-[![Build Status](https://img.shields.io/npm/l/@ibrokhim/rbdv.svg?maxAge=300)](./LICENSE)
-<!--<a href="https://npmjs.org/package/@ibrokhim/rbdv">
-​    <img src="https://img.shields.io/npm/dm/@ibrokhim/rbdv.svg">
-</a>-->
+[![Package Size](http://img.badgesize.io/https://unpkg.com/@ibrokhim/rbdv/?compression=gzip&label=size&maxAge=300)](https://unpkg.com/@ibrokhim/rbdv/)
+[![Downloads Count](https://img.shields.io/npm/dm/@ibrokhim/rbdv.svg)](https://npmjs.org/package/@ibrokhim/rbdv)
+[![Package Version](https://img.shields.io/npm/v/@ibrokhim/rbdv.svg?label=version&colorB=007ec6&maxAge=300)](./package.json)
+[![Package License](https://img.shields.io/npm/l/@ibrokhim/rbdv.svg?maxAge=300)](./LICENSE)
 
 ## About
 
